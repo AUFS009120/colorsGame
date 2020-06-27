@@ -67,7 +67,7 @@ for (var i = 0; i < squares.length; i++) {
       messageDisplay.textContent = "Correct...!";
       h1.style.background = clickedColor;
       filColors(clickedColor);
-      alert("Congratulations, You guessed it...!, Play Again...!");
+      alert("Congratulations, You guessed it...!, Click on Play Again...!");
       resetButton.textContent = "Play Again?";
     } else {
       this.style.background = "#232323";
