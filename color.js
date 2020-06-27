@@ -95,7 +95,7 @@ function generateColors(num){
   }
   return arr;
 }
-alert("RGB refers to RED GREEN BLUE, have to guess what comes when you mix those colors.");
+alert("RGB refers to RED GREEN BLUE, have to guess which color comes, when you mix those colors.");
 
 function randomColor(){
   var r = Math.floor(Math.random() * 256);
