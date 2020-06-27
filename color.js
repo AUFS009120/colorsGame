@@ -1,4 +1,3 @@
-alert("RGB refers to RED GREEN BLUE, have to guess what comes when you mix those colors.");
 var totalS = 6;
 var colors = generateColors(totalS);
 var squares = document.querySelectorAll(".square");
@@ -95,6 +94,7 @@ function generateColors(num){
   }
   return arr;
 }
+alert("RGB refers to RED GREEN BLUE, have to guess what comes when you mix those colors.");
 
 function randomColor(){
   var r = Math.floor(Math.random() * 256);
