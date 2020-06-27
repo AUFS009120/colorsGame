@@ -76,3 +76,14 @@ button:hover{
   color : black;
   text-align: center;
 }
+
+.footer{
+  background-color: #f0e3ff;
+  height : 30px;
+  color : black;
+  text-align: center;
+  margin-top: 430px;
+}
+p{
+  padding-top: 5px;
+}
