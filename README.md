@@ -1,2 +1,2 @@
-https://AUFS009120.github.io/colorsGame/
+https://vinod-reddy-au9.github.io/colorsGame/
 
